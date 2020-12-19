@@ -72,7 +72,7 @@ function Nav(props) {
           aria-label="simple tabs example"
         >
           <Tab label="Search" {...a11yProps(0)} />
-          <Tab label="Favorites" {...a11yProps(1)} />
+          <Tab label="Nominations" {...a11yProps(1)} />
         </Tabs>
       </AppBar>
       {/* this is what will display when the user clicks on the search tab  */}
